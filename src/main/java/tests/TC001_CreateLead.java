@@ -17,7 +17,7 @@ public class TC001_CreateLead extends TestNgHooks{
 	@BeforeTest
 	public void setData() {
 		testCaseName = "TC001Login";
-		testDescription = "Login to Leaftap";
+		testDescription = "Login to Leaftaps";
 		category = "smoke";
 		authors = "Babu";  
 		dataSheetName = "TC001";
